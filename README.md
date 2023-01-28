@@ -1,4 +1,4 @@
-# Simple-Backend-ecommerce-1
+# Simple Backend ecommerce - Laporan Kerja
 don't forget to install the dependencies first before actual use
 
 -- Rubby Halim Surya Wijaya
